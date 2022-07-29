@@ -1,3 +1,7 @@
+# autor: Denilson Bonatti
+# DIO/ Curso: Linux Experience
+# Aula assistida em 28/07/2022
+
 #!/bin/bash
 
 echo "Criando diretórios..."
@@ -38,5 +42,5 @@ chmod 770 /ven
 chmod 770 /sec
 chmod 777 /publico
 
-echo "Fim....."
+echo "Atividades concluídas..."
 
